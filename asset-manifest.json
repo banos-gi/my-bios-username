@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "https://banos-gi.github.io/my-bios-username/static/css/main.cc968fad.css",
+    "main.js": "https://banos-gi.github.io/my-bios-username/static/js/main.5cee5230.js",
+    "static/js/787.29cf4dba.chunk.js": "https://banos-gi.github.io/my-bios-username/static/js/787.29cf4dba.chunk.js",
+    "static/media/logo.svg": "https://banos-gi.github.io/my-bios-username/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "https://banos-gi.github.io/my-bios-username/index.html",
+    "main.cc968fad.css.map": "https://banos-gi.github.io/my-bios-username/static/css/main.cc968fad.css.map",
+    "main.5cee5230.js.map": "https://banos-gi.github.io/my-bios-username/static/js/main.5cee5230.js.map",
+    "787.29cf4dba.chunk.js.map": "https://banos-gi.github.io/my-bios-username/static/js/787.29cf4dba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc968fad.css",
+    "static/js/main.5cee5230.js"
+  ]
+}
